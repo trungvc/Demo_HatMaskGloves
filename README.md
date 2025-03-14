@@ -4,6 +4,7 @@
 
 
 ## Cấu Trúc Dự Án
+```
 📂 Demo_HatMaskGloves
 ├── 📂 model
 │   ├── best_model.pt  #Model segmentation khẩu trang, găng tay, mũ
@@ -18,3 +19,4 @@
 │   ├── main_controller.py      #Điều khiển luồng
 ├── .gitignore
 ├── requirements.txt    #File cài thư viện
+```
